@@ -1,0 +1,9 @@
+name,ingredients,taste_tags,abv,instructions
+Mojito,"white rum,lime,mint,sugar,soda water,ice","refreshing,citrus,herbal,low_sweetness",10,"Muddle mint + sugar + lime. Add rum, ice, top with soda. Stir gently."
+Whiskey Sour,"whiskey,lemon,sugar,egg white,ice","tart,foam,balanced,classic",18,"Dry shake all, then shake with ice. Strain into a coupe. Garnish."
+Piña Colada,"white rum,coconut cream,pineapple,ice","tropical,creamy,sweet",13,Blend all with ice until smooth. Serve tall.
+Negroni,"gin,campari,sweet vermouth,ice,orange peel","bitter,spirit_forward,aromatic",24,Stir with ice. Strain into rocks over a big cube. Orange peel.
+Margarita,"tequila,lime,triple sec,ice,salt","citrus,tart,salty,classic",20,Shake with ice. Strain into a salt-rim glass.
+Old Fashioned,"bourbon,bitters,sugar,orange peel,ice","spirit_forward,aromatic,low_sweetness",25,Stir bourbon with bitters and sugar. Serve over ice. Orange peel.
+Cosmopolitan,"vodka,cranberry,lime,triple sec,ice","citrus,fruity,bright",20,Shake with ice. Strain into a coupe.
+Espresso Martini,"vodka,espresso,coffee liqueur,sugar,ice","coffee,aromatic,slightly_sweet",18,Shake hard with ice. Fine strain. 3 coffee beans.
